@@ -1,0 +1,38 @@
+{
+  "index-mediabuying-de.html": {
+    "label": "Media Buying",
+    "use_for": "Angestellte Stellen im Media Buying und Performance Marketing",
+    "variant": "mediabuying",
+    "profile_source": true,
+    "order": 1
+  },
+  "index-de.html": {
+    "label": "Gründer",
+    "use_for": "Führungsrollen, Beratung und Projekte",
+    "variant": "founder",
+    "profile_source": true,
+    "order": 2
+  },
+  "index-en.html": {
+    "label": "Founder (English)",
+    "use_for": "Englischsprachige Bewerbungen",
+    "variant": "founder",
+    "order": 3
+  },
+  "index-de-jpr.html": {
+    "label": "Gründer – JPR-Design hell",
+    "use_for": "Gleicher Text wie „Gründer“, im JPR-Design",
+    "order": 4
+  },
+  "index-de-jpr-dark.html": {
+    "label": "Gründer – JPR-Design dunkel",
+    "use_for": "Gleicher Text wie „Gründer“, dunkler Hintergrund",
+    "order": 5
+  },
+  "consultant-pitch-de.html": {
+    "label": "Werbeseite für Arztpraxen",
+    "use_for": "Kein Lebenslauf",
+    "kind": "page",
+    "order": 99
+  }
+}
