@@ -6,6 +6,12 @@
     "profile_source": true,
     "order": 1
   },
+  "index-mediabuying-en.html": {
+    "label": "Media Buying (English)",
+    "use_for": "Englischsprachige Bewerbungen im Media Buying und Performance Marketing",
+    "variant": "mediabuying",
+    "order": 1.5
+  },
   "index-de.html": {
     "label": "Gründer",
     "use_for": "Führungsrollen, Beratung und Projekte",
