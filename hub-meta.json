@@ -50,5 +50,10 @@
     "label": "Performance Marketing",
     "use_for": "Angestellte Stellen im Media Buying und Performance Marketing",
     "order": 1.5
+  },
+  "index-automation-de.html": {
+    "label": "KI & Automation",
+    "use_for": "Angestellte Stellen im Media Buying und Performance Marketing",
+    "order": 1.5
   }
 }
