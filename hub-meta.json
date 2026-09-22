@@ -6,12 +6,6 @@
     "profile_source": true,
     "order": 1
   },
-  "index-mediabuying-en.html": {
-    "label": "Media Buying (English)",
-    "use_for": "Englischsprachige Bewerbungen im Media Buying und Performance Marketing",
-    "variant": "mediabuying",
-    "order": 1.5
-  },
   "index-de.html": {
     "label": "Gründer",
     "use_for": "Führungsrollen, Beratung und Projekte",
@@ -40,5 +34,16 @@
     "use_for": "Kein Lebenslauf",
     "kind": "page",
     "order": 99
+  },
+  "index-mediabuying-en.html": {
+    "label": "Media Buying (English)",
+    "use_for": "Englischsprachige Bewerbungen im Media Buying und Performance Marketing",
+    "variant": "mediabuying",
+    "order": 1.5
+  },
+  "index-inhaber-de.html": {
+    "label": "Inhaber (neues Design)",
+    "use_for": "Führungsrollen, Beratung und Projekte",
+    "order": 2.5
   }
 }
