@@ -45,5 +45,10 @@
     "label": "Inhaber (neues Design)",
     "use_for": "Führungsrollen, Beratung und Projekte",
     "order": 2.5
+  },
+  "index-performance-de.html": {
+    "label": "Performance Marketing",
+    "use_for": "Angestellte Stellen im Media Buying und Performance Marketing",
+    "order": 1.5
   }
 }
